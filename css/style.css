@@ -114,7 +114,7 @@ img {
 }
 #body.home div.header div h1 {
 	background: none;
-	color: #000000;
+	color: white;
 	display: block;
 	font-family: 'Arial Black';
 	font-size: 110px;
@@ -174,7 +174,8 @@ img {
 	width: 97.9167%;
 }
 #body.home div.body {
-	background: url(../images/bg-transparent1.png) repeat;
+	background-color: #7830EC;
+	opacity: 0.9;
 	margin: 0;
 	padding: 0;
 	width: 100%;
